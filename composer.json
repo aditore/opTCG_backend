@@ -1,0 +1,7 @@
+{
+    "name": "antho/op-tcg_backend",
+    "description": "backend for optcg tracker",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
