@@ -1,4 +1,5 @@
 <?php
+    ##Run php -S localhost:8000 -- to run on localhost
     #CONNECTED TO MYSQL
     require './conn/connection.php';
     
